@@ -1,0 +1,23 @@
+name: Pikanik
+favicon: null
+layout_spectrum: 0.47278606216423213
+typography_spectrum: 0.10270149214193225
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8495749516878277
+  lightness: 0.49369839229620993
+  saturation: 0.635602158959955
+  rhythmicContrast: 0.27846881933510303
+purpose: []
